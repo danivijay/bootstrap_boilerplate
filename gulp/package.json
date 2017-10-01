@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap_boilerplate",
+  "version": "1.0.0",
+  "description": "Minimal Boostrap boilerplate.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danivijay/bootstrap_boilerplate.git"
+  },
+  "author": "Dani Vijay <danimvijay@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/danivijay/bootstrap_boilerplate",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "browser-sync": "^2.12.8",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-pa11y": "0.0.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3",
+    "gulp-watch": "^4.3.5"
+  }
+}
